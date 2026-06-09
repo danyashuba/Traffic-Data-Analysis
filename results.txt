@@ -1,0 +1,67 @@
+You have chosen the file named traffic_data15062024.csv
+There were 1037 vehicles passing through all junctions on 15/06/2024
+There were 109 trucks passing through all junctions on 15/06/2024
+There were 368 electric vehicles passing through all junctions on 15/06/2024
+There were 401 two wheeled vehicles passing through all junctions on 15/06/2024
+There were 15 busses leaving Elm Avenue/Rabbit Road heading north on 15/06/2024
+There were 363 vehicles which did not turn right or left on junctions on 15/06/2024
+There were 11 % of vehicles recoreded as trucks on 15/06/2024
+The average number of bicycles on 15/06/2024 is 7
+The total number of vehicles recorded as over the speed limit for 15/06/2024 is 205
+The total number of vehicles recorded through only Elm Avenue/Rabbit Road junction for 15/06/2024 is 494
+The total number of vehicles recorded through only Hanley Highway/Westway junction for 15/06/2024 is 543
+The percentage of vehicles through Elm Avenue/Rabbit Road that are Scooters (rounded to integer) for 15/06/2024 is 11
+The number of vehicles recorded in the peak (busiest) hour on Hanley Highway/Westway is 39
+The most vehicles through Hanley Highway/Westway on 15/06/2024 were recorded between 18:00 and 19:00
+The total number of hours of rain on 15/06/2024 is 0
+
+************************************************************
+
+You have chosen the file named traffic_data16062024.csv
+There were 101 vehicles passing through all junctions on 16/06/2024
+There were 11 trucks passing through all junctions on 16/06/2024
+There were 29 electric vehicles passing through all junctions on 16/06/2024
+There were 29 two wheeled vehicles passing through all junctions on 16/06/2024
+There were 0 busses leaving Elm Avenue/Rabbit Road heading north on 16/06/2024
+There were 38 vehicles which did not turn right or left on junctions on 16/06/2024
+There were 11 % of vehicles recoreded as trucks on 16/06/2024
+The average number of bicycles on 16/06/2024 is 0
+The total number of vehicles recorded as over the speed limit for 16/06/2024 is 20
+The total number of vehicles recorded through only Elm Avenue/Rabbit Road junction for 16/06/2024 is 52
+The total number of vehicles recorded through only Hanley Highway/Westway junction for 16/06/2024 is 49
+The percentage of vehicles through Elm Avenue/Rabbit Road that are Scooters (rounded to integer) for 16/06/2024 is 6
+The number of vehicles recorded in the peak (busiest) hour on Hanley Highway/Westway is 5
+The most vehicles through Hanley Highway/Westway on 16/06/2024 were recorded between 01:00 and 2:00
+The total number of hours of rain on 16/06/2024 is 3
+You have chosen the file named traffic_data21062024.csv
+There were 1334 vehicles passing through all junctions on 21/06/2024
+There were 138 trucks passing through all junctions on 21/06/2024
+There were 442 electric vehicles passing through all junctions on 21/06/2024
+There were 503 two wheeled vehicles passing through all junctions on 21/06/2024
+There were 19 busses leaving Elm Avenue/Rabbit Road heading north on 21/06/2024
+There were 494 vehicles which did not turn right or left on junctions on 21/06/2024
+There were 10 % of vehicles recoreded as trucks on 21/06/2024
+The average number of bicycles on 21/06/2024 is 10
+The total number of vehicles recorded as over the speed limit for 21/06/2024 is 250
+The total number of vehicles recorded through only Elm Avenue/Rabbit Road junction for 21/06/2024 is 651
+The total number of vehicles recorded through only Hanley Highway/Westway junction for 21/06/2024 is 683
+The percentage of vehicles through Elm Avenue/Rabbit Road that are Scooters (rounded to integer) for 21/06/2024 is 10
+The number of vehicles recorded in the peak (busiest) hour on Hanley Highway/Westway is 71
+The most vehicles through Hanley Highway/Westway on 21/06/2024 were recorded between 18:00 and 19:00
+The total number of hours of rain on 21/06/2024 is 6
+You have chosen the file named traffic_data21062024.csv
+There were 1334 vehicles passing through all junctions on 21/06/2024
+There were 138 trucks passing through all junctions on 21/06/2024
+There were 442 electric vehicles passing through all junctions on 21/06/2024
+There were 503 two wheeled vehicles passing through all junctions on 21/06/2024
+There were 19 busses leaving Elm Avenue/Rabbit Road heading north on 21/06/2024
+There were 494 vehicles which did not turn right or left on junctions on 21/06/2024
+There were 10 % of vehicles recoreded as trucks on 21/06/2024
+The average number of bicycles on 21/06/2024 is 10
+The total number of vehicles recorded as over the speed limit for 21/06/2024 is 250
+The total number of vehicles recorded through only Elm Avenue/Rabbit Road junction for 21/06/2024 is 651
+The total number of vehicles recorded through only Hanley Highway/Westway junction for 21/06/2024 is 683
+The percentage of vehicles through Elm Avenue/Rabbit Road that are Scooters (rounded to integer) for 21/06/2024 is 10
+The number of vehicles recorded in the peak (busiest) hour on Hanley Highway/Westway is 71
+The most vehicles through Hanley Highway/Westway on 21/06/2024 were recorded between 18:00 and 19:00
+The total number of hours of rain on 21/06/2024 is 6
